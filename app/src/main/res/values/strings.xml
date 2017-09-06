@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">RegexEval</string>
+    <string name="regex">Regular Expression</string>
+    <string name="string">String to Check</string>
+    <string name="result">Result</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
